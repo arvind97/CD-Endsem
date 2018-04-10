@@ -1,0 +1,3 @@
+
+   a       VAR       INT     FUNC_0
+   main       FUNC            GLOBAL
